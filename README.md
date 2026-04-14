@@ -14,5 +14,4 @@ This is a simple interactive web application that allows users to write a letter
 - CSS
 - JavaScript
 
-## Live Demo
-(Add your GitHub Pages link here)
+
